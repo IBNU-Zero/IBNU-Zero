@@ -1,6 +1,6 @@
 <!-- 🌟 Animated Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="200"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXF2dDg5ZDl1cW5lNTNqN3JmcmR0aTdrbHFyM3h1ZW4xcGJ3eGkzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MSemvqMIRY3jMcvpd2/giphy.gif" width="200"/>
 </p>
 
 <h1 align="center">Moch.ibnu fadhil – SMK Teknik Komputer & Jaringan</h1>  <!--Student Portofolio ganti dengan nama anda-->
@@ -56,14 +56,14 @@ Repository ini berisi:
 ## 📞 Kontak <!--Isi dengan data diri anda-->
 Untuk diskusi atau kolaborasi:
 
-- 📧 Email : (isi sendiri)
+- 📧 Email : akungithub777@gmail.com
 - 💼 LinkedIn : (opsional)
 - 🌐 Website / Portofolio : (opsional)
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Ym04cDliMTd3Mm9iam9hM2tsOXp2Z2dwYzYzYmV0Yzk0c3dlMjB5cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RfnQuPrBYOzpdh8yrh/giphy.gif" width="200"/>
 </p>
 
 ## ⭐ Terima Kasih
