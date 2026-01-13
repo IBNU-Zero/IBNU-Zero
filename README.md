@@ -6,7 +6,7 @@
 <h1 align="center">Moch.ibnu fadhil – SMK Teknik Komputer & Jaringan</h1>  <!--Student Portofolio ganti dengan nama anda-->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=700&lines=Selamat+Datang+Di+GitHub+Repository+Saya;SMK+Teknik+Komputer+dan+Jaringan;Learning+Networking%2C+Linux%2C+and+Server+Administration" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=800&lines=Selamat+Datang+Di+GitHub+Repository+Saya;SMK+Teknik+Komputer+dan+Jaringan;Learning+Networking%2C+Windows%2C+Linux%2C+and+Server+Administration" />
 </p>
 
 ---
