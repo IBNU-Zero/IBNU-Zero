@@ -31,7 +31,7 @@ Repository ini berisi:
 ---
 
 ## 🧠 Kompetensi yang Dipelajari <!--Ganti dengan Keahlian anda-->
-- 🖧 LAN, WAN, VLAN  
+- 🖧  LAN, WAN, VLAN  
 - 🔌 Konfigurasi perangkat jaringan  
 - 🐧 Linux Administration  
 - 🪟 Windows Server Management  
