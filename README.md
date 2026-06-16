@@ -53,12 +53,12 @@ Repository ini berisi:
 ---
 
 
-## 📞 Kontak <!--Isi dengan data diri anda-->
+## 📞 Kontak +62 896 1602 3648
 Untuk diskusi atau kolaborasi:
 
 - 📧 Email : akungithub777@gmail.com
-- 💼 LinkedIn : (opsional)
-- 🌐 Website / Portofolio : (opsional)
+- 💼 LinkedIn : -
+- 🌐 Website / Portofolio : -
 
 ---
 
