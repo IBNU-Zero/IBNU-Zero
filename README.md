@@ -58,8 +58,8 @@ Untuk diskusi atau kolaborasi:
 
 - 📧 Email : akungithub777@gmail.com
 - 💼 LinkedIn : -
-- 🌐 Website-Claude : https://ibnu-zero.github.io/My-Web/
-- 🌐 Website-MyWeb : 
+- 🌐 Website By Claude : https://ibnu-zero.github.io/My-Web/
+- 🌐 MyWeb : 
 
 ---
 
