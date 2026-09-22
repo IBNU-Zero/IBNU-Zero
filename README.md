@@ -58,7 +58,7 @@ Untuk diskusi atau kolaborasi:
 
 - 📧 Email : akungithub777@gmail.com
 - 💼 LinkedIn : -
-- 🌐 Website By AI : https://ibnu-zero.github.io/My-Web/
+- 🌐 Website By AI : https://ibnu-zero.github.io/Website-creation-assisted-by-AI/
 - 🌐 MyWeb : 
 
 ---
